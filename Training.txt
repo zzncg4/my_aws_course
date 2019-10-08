@@ -1,0 +1,10 @@
+El archivo Training.zip contiene los Torrent files para descargar los siguientes cursos en video:
+
+AWS Certified Solutions Architect Associate
+AWS Certified SysOps Administrator Associate
+AWS Certified Developer Associate
+AWS Certified 3-in-one: Architect/SysOps/Developer Associate
+
+Los cursos son de Diciembre de 2016.
+
+La Clave del archivo ZIP es: Clave
